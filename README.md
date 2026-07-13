@@ -65,3 +65,7 @@ wrangler dev
 
 - 本项目基于 [Linux.do：qwen3-asr-flash 的 Spokenly OpenAI 兼容方案](https://linux.do/t/topic/943798)修改，感谢原作者分享。
 - `fun-asr-flash-2026-06-15` 适配参考[阿里云百炼非实时语音识别文档](https://help.aliyun.com/zh/model-studio/non-realtime-speech-recognition-user-guide)。
+
+---
+
+*Coded with Codex*
