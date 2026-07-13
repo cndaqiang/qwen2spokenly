@@ -1,0 +1,6 @@
+name = "qwen2spokenly"
+main = "src/worker.js"
+compatibility_date = "2025-11-09"
+
+# Workers 配置
+workers_dev = true
